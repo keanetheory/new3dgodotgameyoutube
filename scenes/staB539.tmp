@@ -55,7 +55,7 @@ material = SubResource("StandardMaterial3D_wcs1b")
 shape = SubResource("BoxShape3D_1pdv6")
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.34037, 2.12981, 3.01601)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.34037, 0.890036, 3.01601)
 script = ExtResource("1_dbide")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
